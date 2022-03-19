@@ -15,9 +15,9 @@ A deep learning algorithm which can take in an input image
 A deep learning based generative model
 
 ## Requirements
-Python
-Numpy
-Tensorflow 
+- Python
+- Numpy
+- Tensorflow 
 
 
 ### References
